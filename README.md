@@ -8,7 +8,7 @@ This is a unity project inspired by https://www.youtube.com/watch?v=X-iSQQgOd1A&
 
 ### Next
 
-- Size the ant, hive, and food portions
+- make spawning not ontop eachother
 - make ants go toward food
 - hive spawns ants
 - add border so the ants cant go outside of camera view
